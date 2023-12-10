@@ -1,2 +1,5 @@
+# Program files
+__pycache__
 
-tok_1.py
+# Confidential files
+UserData
